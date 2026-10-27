@@ -16,8 +16,6 @@ First-year Information Systems and Technologies student at FEFU, Vladivostok
 [![Email](https://img.shields.io/badge/Email-shadowblady1@gmail.com-FF7878?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22)](mailto:shadowblady1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-clearstate-FF7878?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/clearstate)
 
-<img src="https://komarev.com/ghpvc/?username=clearstate&label=Profile%20views&color=ff7878&style=flat-square&labelColor=161b22" alt="views">
-
 </div>
 
 ---
