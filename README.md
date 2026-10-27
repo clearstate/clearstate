@@ -86,7 +86,6 @@ A team project built at the Alfa Future hackathon: a news analytics solution tha
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=clearstate&show_icons=true&theme=dark&hide_border=true&bg_color=161b22&title_color=FF7878&icon_color=FF7878&text_color=c9d1d9" alt="GitHub stats" height="165">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clearstate&layout=compact&theme=dark&hide_border=true&bg_color=161b22&title_color=FF7878&text_color=c9d1d9" alt="Top languages" height="165">
 
 <br>
